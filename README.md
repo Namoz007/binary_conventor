@@ -1,39 +1,24 @@
-<!-- 
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
+# BinaryConverter
 
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/guides/libraries/writing-package-pages). 
-
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-library-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/developing-packages). 
--->
-
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+**BinaryConverter** is a Dart library that provides a simple and efficient way to convert integer numbers into their binary representations. This library is designed to be lightweight, easy to use, and integrate seamlessly into any Dart project.
 
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+- Convert any integer to a binary string with ease.
+- Simple and intuitive API.
+- High performance and lightweight.
+- Well-documented with examples.
 
-## Getting started
+## Installation
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+To use BinaryConverter in your Dart project, add the following dependency to your `pubspec.yaml` file:
 
-## Usage
-
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder. 
-
-```dart
-const like = 'sample';
+```yaml
+dependencies:
+  binary_converter: ^1.0.0
 ```
+## Import It
 
-## Additional information
-
-TODO: Tell users more about the package: where to find more information, how to 
-contribute to the package, how to file issues, what response they can expect 
-from the package authors, and more.
+```
+import 'package:binary_conventor/binary_conventor.dart';
+```

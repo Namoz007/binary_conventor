@@ -1,7 +1,10 @@
 name: binary_conventor
-description: A starting point for Dart libraries or applications.
+description: Convert any integer to a binary string with a single function call.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/Namoz007/binary_conventor.git
+homepage: https://github.com/Namoz007/binary_conventor.git
+authors:
+  - Muhammadzohid Qahramonov
 
 environment:
   sdk: ^3.4.4
@@ -13,3 +16,5 @@ dependencies:
 dev_dependencies:
   lints: ^3.0.0
   test: ^1.24.0
+
+license: MIT
