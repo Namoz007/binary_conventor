@@ -1,6 +1,6 @@
 name: binary_conventor
 description: Convert any integer to a binary string with a single function call.
-version: 1.0.0
+version: 1.0.1
 repository: https://github.com/Namoz007/binary_conventor.git
 homepage: https://github.com/Namoz007/binary_conventor.git
 authors:
